@@ -1,0 +1,5 @@
+<!-- this is an :index template. data will be passed here through the contoller. -->
+
+<div class="jumbotron">
+  <h2>Hello World, from <%= @message %>!</h2>
+</div>
